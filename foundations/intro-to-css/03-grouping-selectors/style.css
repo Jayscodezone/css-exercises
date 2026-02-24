@@ -1,1 +1,12 @@
 /* Add CSS Styling */
+.btn-primary {
+  font-family: Helvetica, "Times New Roman";
+  font-size: 28px;
+  color: white;
+  background-color: black;
+}
+.btn-secondary {
+  font-family: Helvetica, "Times New Roman";
+  font-size: 28px;
+  background: yellow;
+}
